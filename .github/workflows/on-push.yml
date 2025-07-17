@@ -19,7 +19,7 @@ jobs:
       BRANCH_NAME: ${{ env.BRANCH_NAME }}
       ENCODED_BRANCH_NAME: ${{ steps.branchname.outputs.ENCODED_BRANCH_NAME }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Set up python
         id: setup-python
         uses: actions/setup-python@v5
