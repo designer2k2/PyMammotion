@@ -6,10 +6,8 @@
 
 [img_version]: https://img.shields.io/static/v1.svg?label=SemVer&message=0.4.0&color=blue
 [url_version]: https://pypi.org/project/pymammotion/
-
 [img_pypi]: https://img.shields.io/badge/PyPI-wheels-green.svg
 [url_pypi]: https://pypi.org/project/pymammotion/#files
-
 [img_pyversions]: https://img.shields.io/pypi/pyversions/pymammotion.svg
 [url_pyversions]: https://pypi.python.org/pypi/pymammotion
 
@@ -59,8 +57,6 @@ If you encounter any issues:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
 ## Trademark Notice
 
 The trademarks "Mammotion," "Luba," and "Yuka" referenced herein are registered trademarks of their respective owners. The author of this software repository is not affiliated with, endorsed by, or connected to these trademark owners in any way.
-
